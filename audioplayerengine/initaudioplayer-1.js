@@ -62,10 +62,10 @@ jQuery(document).ready(function(){
         titleinbarscroll:true,
         showtitle:true,
         defaultvolume:100,
-        showtitleinbar:true,
+        showtitleinbar:false,
         heightmode:"fixed",
         titleinbarformat:"%TITLE%",
-        showtracklist:false,
+        showtracklist:true,
         stopimageheight:48,
         volumeimageheight:24,
         stopimagewidth:48,
@@ -79,6 +79,6 @@ jQuery(document).ready(function(){
         autoplay:true,
         fullwidth:false,
         loop:1,
-        tracklistitem:10
+        tracklistitem:4
     });
 });

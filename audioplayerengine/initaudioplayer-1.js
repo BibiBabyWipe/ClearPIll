@@ -132,7 +132,7 @@ jQuery(document).ready(function(){
 
         titleinbarformat:"%TITLE%",
 
-        showtracklist:true,
+        showtracklist:false,
 
         stopimageheight:48,
 

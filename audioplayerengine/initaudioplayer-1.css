@@ -229,7 +229,7 @@
 #amazingaudioplayer-1 .amazingaudioplayer-tracklist {
 	display: block;
 	position: relative;
-	top: 168px;
+	top: 0px;
 	left: 0;
 }
 
@@ -329,5 +329,7 @@
 
 #amazingaudioplayer-1 .amazingaudioplayer-item-title {
 	overflow: hidden;
-}
-
+}
+
+
+

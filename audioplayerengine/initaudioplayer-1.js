@@ -160,7 +160,7 @@ jQuery(document).ready(function(){
 
         loop:1,
 
-        tracklistitem:20
+        tracklistitem:20,
 
     });
 
